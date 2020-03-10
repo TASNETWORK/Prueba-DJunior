@@ -6,16 +6,17 @@ un carrito de compras y eliminarlos de este carrito.</p>
 
 <strong>Requerimientos :</strong>
 <ul>
-  <li>1. Se deben mostrar los productos que vienen en el .Json.</li>
-  <li>2. Se debe mostrar toda la información de cada producto.</li>
-  <li>3. Se debe poder filtrar por categorías.</li>
-  <li>4. Se debe poder filtrar productos disponibles, agotados y más vendidos.</li>
-  <li>5. Se debe poder filtrar los productos de precio mayor a 30,000.</li>
-  <li>6. Se deben poder filtrar los productos de precio menor a 10,000.</li>
-  <li>7. Se debe poder ordenar por Nombre, Mayor precio, Menor precio.</li>
-  <li>8. Se debe poder buscar un producto.</li>
-  <li>9. Se pueden agregar y eliminar productos del carrito.</li>
-  <li>10. Utilizar los recursos a partir de este servicio <a href="https://d3qfc4eeq75hwf.cloudfront.net/data.json">JSON</a></li>
+  <li>1. Utilizar los recursos a partir de este servicio <a href="https://my-json-server.typicode.com/TASNETWORK/Prueba-DJunior">JSON</a></li>
+  <li>2. Se deben mostrar los productos que vienen en el .Json.</li>
+  <li>3. Se debe mostrar toda la información de cada producto.</li>
+  <li>4. Se debe poder filtrar por categorías.</li>
+  <li>5. Se debe poder filtrar productos disponibles, agotados y más vendidos.</li>
+  <li>6. Se debe poder filtrar los productos de precio mayor a 30,000.</li>
+  <li>7. Se deben poder filtrar los productos de precio menor a 10,000.</li>
+  <li>8. Se debe poder ordenar por Nombre, Mayor precio, Menor precio.</li>
+  <li>9. Se debe poder buscar un producto.</li>
+  <li>10. Se pueden agregar y eliminar productos del carrito.</li>
+  
 </ul>
 
 <strong>Condiciones :</strong>
