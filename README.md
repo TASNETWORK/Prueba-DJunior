@@ -22,8 +22,9 @@ un carrito de compras y eliminarlos de este carrito.</p>
 <strong>Condiciones :</strong>
 
 <ul>
-  <li>1. Puede usar cualquier framework para frontend.</li>
-  <li>2. El diseño de la interfaz queda a su creatividad.</li>
-  <li>3. Debe ser responsivo.</li>
-  <li>4. Si lo desea puede usar animaciones para hacerlo más Cool.</li>
+  <li>1. Indispensable usar algún Framework para Front-End.</li>
+  <li>2. El diseño de la interfaz queda a su creatividad (UI/UX).</li>
+  <li>3. Debe ser Responsive Design.</li>
+  <li>4. Utilizar Bootstrap 4.</li>
+  <li>5. Si lo desea puede usar animaciones para hacerlo más Cool.</li>
 </ul>
