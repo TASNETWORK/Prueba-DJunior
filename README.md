@@ -16,7 +16,6 @@ un carrito de compras y eliminarlos de este carrito.</p>
   <li>8. Se debe poder ordenar por Nombre, Mayor precio, Menor precio.</li>
   <li>9. Se debe poder buscar un producto.</li>
   <li>10. Se pueden agregar y eliminar productos del carrito.</li>
-  
 </ul>
 
 <strong>Condiciones :</strong>
@@ -27,4 +26,5 @@ un carrito de compras y eliminarlos de este carrito.</p>
   <li>3. Debe ser Responsive Design.</li>
   <li>4. Utilizar Bootstrap 4.</li>
   <li>5. Si lo desea puede usar animaciones para hacerlo más Cool.</li>
+  <li>6. Se deben hacer commits durante la prueba</li>
 </ul>
